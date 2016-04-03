@@ -1,0 +1,30 @@
+html {
+    overflow-y:scroll;
+}
+body {
+   background-color: #4b3832;
+}
+.container {
+    background-color: #fff4e6;
+}
+.header-counting {
+    margin-top: 20px;
+    background-color: #3c2f2f;
+    color: #ffffff;
+}
+.counter {
+    margin-top: 0em;
+}
+.todo-list-container {
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-bottom:30px;
+}
+.maume {
+    background-color: #854442;
+    color: #ffffff;
+}
+#todo-form {
+    margin-bottom:50px;
+}
+
